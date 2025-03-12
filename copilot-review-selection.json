@@ -1,0 +1,31 @@
+{
+  "instructions": [
+    {
+      "text": "Ensure all class names are in PascalCase."
+    },
+    {
+      "text": "Check for the use of 'const' and 'let' instead of 'var'."
+    },
+    {
+      "text": "Ensure all functions are in camelCase."
+    },
+    {
+      "text": "Check for the use of '===' instead of '=='."
+    },
+    {
+      "text": "Ensure all loops have proper termination conditions."
+    },
+    {
+      "text": "Check for the use of template literals instead of string concatenation."
+    },
+    {
+      "text": "Ensure all async functions handle errors using try-catch."
+    },
+    {
+      "text": "Verify that all dependencies are listed in package.json."
+    },
+    {
+      "text": "Ensure all functions have JSDoc comments."
+    }
+  ]
+}
