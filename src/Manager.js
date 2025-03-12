@@ -38,13 +38,14 @@ class Manager extends Employee {
     this.department = department;
   }
 
-  /**
+    /**
    * Gets the department of the manager.
    * @returns {string} The department of the manager.
    */
-  getDepartment() {
-    return this.department;
-  }
+    getDepartment() {
+      return this.department;
+    }
+  
 }
 
 module.exports = Manager;
