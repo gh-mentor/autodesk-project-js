@@ -1,7 +1,8 @@
 {
   "instructions": [
     {
-      "text": "Ensure all class names are in PascalCase."
+      "text": "Ensure all class names are in PascalCase.",
+      "language": "javascript"
     },
     {
       "text": "Check for the use of 'const' and 'let' instead of 'var'."

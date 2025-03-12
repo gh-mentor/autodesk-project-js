@@ -21,6 +21,7 @@
 - Ensure all promises are properly awaited.
 - Verify that all dependencies are listed in `package.json`.
 - Check for any potential performance issues.
+- Complete all TODOs .
 
 ## Example Code Snippet
 ```javascript
