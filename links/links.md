@@ -1,3 +1,5 @@
+(Copilot in VS Code)[https://code.visualstudio.com/docs/copilot/overview]
+
 (chat extensions)[https://code.visualstudio.com/api/extension-guides/chat]
 
 (notebook api)[https://code.visualstudio.com/api/extension-guides/notebook]
